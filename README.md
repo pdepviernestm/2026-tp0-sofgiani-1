@@ -1,5 +1,4 @@
-# TP0
-## Mi presentación
+# TP0: Mi presentación
 Mi nombre es Sofía Micaela Giani, legajo: 2223510.
 
 ## ¿Cómo elegí la carrera?
